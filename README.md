@@ -45,5 +45,5 @@ In this project, I used classic fully connected layers and CNN layers to impleme
 <p>
 This project is my capstone project of Deep Learning NanoDegree.
 
-- In this project, I used Deterministic Policy Gradient (a Policy-Based algorithm) to train a virtual quadcopter to fly from a initial position then hover around a target position in a determined duration. Techniques support this algorithm to improve its performance are Prioritized Experience Replay Buffer, 1D Convolutional Layers (it helps the model can capture temporal constraints), ...
+In this project, I used Deterministic Policy Gradient (a Policy-Based algorithm) to train a virtual quadcopter to fly from a initial position then hover around a target position in a determined duration. Techniques support this algorithm to improve its performance are Prioritized Experience Replay Buffer, 1D Convolutional Layers (it helps the model can capture temporal constraints), ...
 </p>
