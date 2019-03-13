@@ -1,5 +1,5 @@
 # Portfolio of course work for my Deep Learning NanoDegree (Udacity)
-![alt text](https://github.com/thienan092/Deep-Learning-ND/blob/master/media/big-decor-image.jpg)
+[![alt text](https://github.com/thienan092/Deep-Learning-ND/blob/master/media/big-decor-image.jpg)](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
 Program Overview:
 
